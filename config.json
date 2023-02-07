@@ -1,0 +1,10 @@
+﻿{
+  "tokenEnvironmentVariableName": "",
+  "openseaApiKey": "", 
+  "dbConnectionString": "",
+  "description": "",
+  "messageCommandPrefix": "",
+  "statusType": "",
+  "statusText": "",
+  "statusUrl": ""
+}
